@@ -8,3 +8,5 @@ print(x+y)
 
 
 print("Now Im able to understand this a bit :)")
+
+print("Hello! Im adding a code")
